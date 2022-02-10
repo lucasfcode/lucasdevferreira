@@ -18,6 +18,7 @@
 <h3>Experience</h3>
 <h4>Single page application</h4>
 - Development of a Single Page Application using React for the Front End and Redux as state management. The styles were developed with CSS without using external libraries.
+
 - Consumption of data from an API ("The Dog API") through a Back End developed in Node.Js. Postgresql was used as a database.
 - New information and functionality have been added to the original API.
 - The project features: CRUD (of dogs), searching cache, sorts/classifications, and filters as well as a controlled form to edit and modify "dogs".</p>
