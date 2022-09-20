@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on an academic project **Buyme App**
 
 - 💬 Ask me about **javascript, react**
 
